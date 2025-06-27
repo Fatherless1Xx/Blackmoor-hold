@@ -463,11 +463,11 @@ GLOBAL_LIST_EMPTY(loadout_items)
 
 /datum/loadout_item/surcollar
 	name = "Surgeon's Collar"
-	path = /obj/item/clothing/neck/roguetown/surcollar
+	path = /obj/item/clothing/neck/roguetown/collar/surgcollar
 
 /datum/loadout_item/feldcollar
 	name = "Feldsher's Collar"
-	path = /obj/item/clothing/neck/roguetown/feldcollar
+	path = /obj/item/clothing/neck/roguetown/collar/feldcollar
 
 //Donator Section
 //All these items are stored in the donator_fluff.dm in the azure modular folder for simplicity.
